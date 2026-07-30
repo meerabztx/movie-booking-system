@@ -25,10 +25,10 @@ This project demonstrates core concepts of full-stack development, including use
 
 ## 🛠️ Tech Stack
 
-> (Edit this section based on your actual project)
 
-* Frontend: HTML, CSS, JavaScript / React (if used)
-* Backend: Node.js / Django / Flask / PHP / Java (update accordingly)
+
+* Frontend: HTML, CSS, JavaScript 
+* Backend: Node.js / Django / Flask / PHP / Java 
 * Database: MySQL / MongoDB / SQLite
 * Tools: Git, GitHub
 
@@ -39,11 +39,11 @@ This project demonstrates core concepts of full-stack development, including use
 ```bash
 movie-booking-system/
 │
-├── frontend/          # UI files (if separate)
+├── frontend/          # UI files 
 ├── backend/           # Server-side code
 ├── database/          # SQL scripts or schema
 ├── static/            # CSS, JS, images
-├── templates/         # HTML templates (if applicable)
+├── templates/         # HTML templates
 ├── README.md
 └── LICENSE
 ```
@@ -61,35 +61,23 @@ cd movie-booking-system
 
 ### 2. Install dependencies
 
-*(update based on your stack)*
-
 For Node.js:
 
 ```bash
 npm install
 ```
 
-For Python:
-
-```bash
-pip install -r requirements.txt
-```
 
 ### 3. Configure database
 
 * Create a database (e.g., `movie_booking`)
-* Import provided SQL file (if available)
+* Import provided SQL file 
 * Update DB credentials in config file
 
 ### 4. Run the project
 
 ```bash
 npm start
-# or
-python app.py
-```
-
----
 
 ## 🖥️ Usage
 
